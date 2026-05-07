@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestionAdministrativaBarrac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestionAdministrativaBarracas.Infrastructure", "..\GestionAdministrativaBarracas.Infrastructure\GestionAdministrativaBarracas.Infrastructure.csproj", "{167F37F8-CA04-4B42-8D98-89E3589F2CCC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestionAdministrativa.API", "..\GestionAdministrativa.API\GestionAdministrativa.API.csproj", "{D1058BAB-4E34-4918-9F31-7FD239720D8C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,6 +39,10 @@ Global
 		{167F37F8-CA04-4B42-8D98-89E3589F2CCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{167F37F8-CA04-4B42-8D98-89E3589F2CCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{167F37F8-CA04-4B42-8D98-89E3589F2CCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1058BAB-4E34-4918-9F31-7FD239720D8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1058BAB-4E34-4918-9F31-7FD239720D8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1058BAB-4E34-4918-9F31-7FD239720D8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1058BAB-4E34-4918-9F31-7FD239720D8C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

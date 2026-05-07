@@ -9,7 +9,7 @@ namespace GestionAdministrativaBarracas.Tests.Dominio
     public class EgresoTests
     {
         [Test]
-        public void CrearEgreso_ConProveedorValido_NoLanzaExcepcion()
+        public void CrearEgresoConProveedorValidoNoLanzaExcepcion()
         {
             var proveedor = new Proveedor(
                 nombre: "Proveedor Test",

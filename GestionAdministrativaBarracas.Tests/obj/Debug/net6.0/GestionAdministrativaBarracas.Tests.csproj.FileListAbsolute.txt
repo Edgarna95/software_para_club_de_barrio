@@ -136,3 +136,4 @@ C:\Users\Edgar\Desktop\GestionAdministrativaBarracas\GestionAdministrativaBarrac
 C:\Users\Edgar\Desktop\GestionAdministrativaBarracas\GestionAdministrativaBarracas.Tests\obj\Debug\net6.0\GestionAdministrativaBarracas.Tests.pdb
 C:\Users\Edgar\Desktop\GestionAdministrativaBarracas\GestionAdministrativaBarracas.Tests\obj\Debug\net6.0\GestionAdministrativaBarracas.Tests.genruntimeconfig.cache
 C:\Users\Edgar\Desktop\GestionAdministrativaBarracas\GestionAdministrativaBarracas.Tests\obj\Debug\net6.0\ref\GestionAdministrativaBarracas.Tests.dll
+C:\Users\Edgar\Desktop\GestionAdministrativaBarracas\GestionAdministrativaBarracas.Tests\obj\Debug\net6.0\GestionAdministrativaBarracas.Tests.sourcelink.json

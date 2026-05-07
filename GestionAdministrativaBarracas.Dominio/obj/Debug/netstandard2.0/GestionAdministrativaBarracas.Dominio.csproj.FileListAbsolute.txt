@@ -8,3 +8,4 @@ C:\Users\Edgar\Desktop\GestionAdministrativaBarracas\GestionAdministrativaBarrac
 C:\Users\Edgar\Desktop\GestionAdministrativaBarracas\GestionAdministrativaBarracas.Dominio\obj\Debug\netstandard2.0\GestionAdministrativaBarracas.Dominio.csproj.CoreCompileInputs.cache
 C:\Users\Edgar\Desktop\GestionAdministrativaBarracas\GestionAdministrativaBarracas.Dominio\obj\Debug\netstandard2.0\GestionAdministrativaBarracas.Dominio.dll
 C:\Users\Edgar\Desktop\GestionAdministrativaBarracas\GestionAdministrativaBarracas.Dominio\obj\Debug\netstandard2.0\GestionAdministrativaBarracas.Dominio.pdb
+C:\Users\Edgar\Desktop\GestionAdministrativaBarracas\GestionAdministrativaBarracas.Dominio\obj\Debug\netstandard2.0\GestionAdministrativaBarracas.Dominio.sourcelink.json

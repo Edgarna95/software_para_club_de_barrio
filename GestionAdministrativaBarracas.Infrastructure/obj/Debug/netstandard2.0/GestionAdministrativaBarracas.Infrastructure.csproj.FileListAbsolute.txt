@@ -11,3 +11,4 @@ C:\Users\Edgar\Desktop\GestionAdministrativaBarracas\GestionAdministrativaBarrac
 C:\Users\Edgar\Desktop\GestionAdministrativaBarracas\GestionAdministrativaBarracas.Infrastructure\obj\Debug\netstandard2.0\GestionA.79059F10.Up2Date
 C:\Users\Edgar\Desktop\GestionAdministrativaBarracas\GestionAdministrativaBarracas.Infrastructure\obj\Debug\netstandard2.0\GestionAdministrativaBarracas.Infrastructure.dll
 C:\Users\Edgar\Desktop\GestionAdministrativaBarracas\GestionAdministrativaBarracas.Infrastructure\obj\Debug\netstandard2.0\GestionAdministrativaBarracas.Infrastructure.pdb
+C:\Users\Edgar\Desktop\GestionAdministrativaBarracas\GestionAdministrativaBarracas.Infrastructure\obj\Debug\netstandard2.0\GestionAdministrativaBarracas.Infrastructure.sourcelink.json

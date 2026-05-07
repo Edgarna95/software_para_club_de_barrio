@@ -9,8 +9,12 @@ namespace GestionAdministrativaBarracas.Infrastructure.Repositories
 {
     public class SocioRepositoryInMemory : ISocioRepository
     {
-        private readonly List<Socio> _socios = new List<Socio>();
-
+        private readonly List<Socio> _socios = new List<Socio>
+        {
+            new Socio("Nadir","39054314"),
+            new Socio("David","45796393")
+        };
+        
         public void Agregar(Socio socio)
         {
             _socios.Add(socio);
@@ -25,5 +29,7 @@ namespace GestionAdministrativaBarracas.Infrastructure.Repositories
         {
             return _socios;
         }
+
+
     }
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GestionAdministrativaBarracas.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+25d1e01120275092031d8ef7668ed7341e9ade2f")]
 [assembly: System.Reflection.AssemblyProductAttribute("GestionAdministrativaBarracas.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GestionAdministrativaBarracas.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
